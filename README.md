@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é Matheus e sou Front end developer, procurando oportunidades de estágio e vagas nível júnior.
+Meu nome é Matheus Ribeiro, tenho 20 anos e sou Front end developer, procurando oportunidades de estágio e vagas nível júnior.
 
 
 ## 🌐 Socials:

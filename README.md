@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Matheus Ribeiro, sou estudante de Bacharelado em Sistemas de Informação e atualmente estou no meu 5° período da faculdade. Direciono todos os meus estudos em tecnologias do ambiente Front end web. Estou procurando oportunidades de estágio e vagas nível júnior.
+Olá, meu nome é Matheus Ribeiro, sou estudante de Bacharelado em Sistemas de Informação e atualmente estou no meu 5° período da faculdade. Direciono todos os meus estudos em tecnologias do ambiente de desenvolvimento web. Estou procurando oportunidades de estágio e vagas nível júnior.
 
 
 ## 🌐 Socials:

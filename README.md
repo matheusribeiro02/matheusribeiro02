@@ -1,7 +1,3 @@
-# 💫 About Me:
-Olá, meu nome é Matheus Ribeiro, sou estudante de Bacharelado em Sistemas de Informação e atualmente estou no meu 5° período da faculdade. Direciono todos os meus estudos em tecnologias do ambiente de desenvolvimento web. Estou procurando oportunidades de estágio e vagas nível júnior.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheusrr__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusribeiro02/)
 
